@@ -1,4 +1,4 @@
 blogs
 =====
 
-My Blogs
+My Blogs, posts are in Issues.
