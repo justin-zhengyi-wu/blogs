@@ -1,5 +1,5 @@
 function solution(str) {
-    var result = -1, reg, left, tmp = [];
+    var result = -1, reg, left;
     for (var len = parseInt(str.length / 2); len > 0; len--) {
         reg = str.substring(0, len);
         left = str.substring(len);
